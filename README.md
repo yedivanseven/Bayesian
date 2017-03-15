@@ -1,13 +1,11 @@
 # Bayesian
 ## Bayesian Perambulations
 
-This repository will (hopefully) contain a collection of interesting
-applications of Bayesian Monta-Carlo methods. So far, the only example is the
-good old
+This repository contains applications of Bayesian Monta-Carlo methods. So far,
+there are two tried-and-tested examples:
 
 + Coin Toss
-
-and the classic Bayesian learning of its fariness.
++ Linear Regression
 
 ## Dependencies and Install
 Everything seems to run smoothly on a fresh Anaconda 4.3 install (under
