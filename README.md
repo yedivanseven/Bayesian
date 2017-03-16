@@ -7,6 +7,9 @@ there are two tried-and-tested examples:
 + Coin Toss
 + Linear Regression
 
+If you are interested in a more realistic scenario, check out the
+_Bayesian_ notebook in the [_Commodities_](https://github.com/yedivanseven/Commodities) repository.
+
 ## Dependencies and Install
 Everything seems to run smoothly on a fresh Anaconda 4.3 install (under
 `python 3.6`). Additional dependencies are
