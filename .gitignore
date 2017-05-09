@@ -90,3 +90,6 @@ ENV/
 
 # pydot container files
 container.dot
+
+# PNG files
+.png
