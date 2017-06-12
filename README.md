@@ -8,7 +8,8 @@ there are two tried-and-tested examples:
 + Linear Regression
 
 If you are interested in a more realistic scenario, check out the
-_Bayesian_ notebook in the [_Commodities_](https://github.com/yedivanseven/Commodities) repository.
+_Bayesian_ notebook in the [_Commodities_](https://github.com/yedivanseven/Commodities) repository
+or the _PlanBayesian_ notebook in the [_Berlin_](https://github.com/yedivanseven/Berlin) repository.
 
 ## Dependencies and Install
 Everything seems to run smoothly on a fresh Anaconda 4.3 install (under
