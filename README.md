@@ -1,7 +1,7 @@
 # Bayesian
 ## Bayesian Perambulations
 
-This repository explores concepts of Bayesian Monta-Carlo methods. If you are more interested in realistic applications of probabilistic models, check out the
+This repository explores concepts of Bayesian Monte-Carlo methods. If you are more interested in realistic applications of probabilistic models, check out the
 _Bayesian_ notebook in the [_Commodities_](https://github.com/yedivanseven/Commodities) repository
 or the _PlanBayesian_ notebook in the [_Berlin_](https://github.com/yedivanseven/Berlin) repository.
 
