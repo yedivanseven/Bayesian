@@ -6,7 +6,7 @@ _Bayesian_ notebook in the [_Commodities_](https://github.com/yedivanseven/Commo
 or the _PlanBayesian_ notebook in the [_Berlin_](https://github.com/yedivanseven/Berlin) repository.
 
 ### 1. Coin Toss
-In this notebook, we play with what my well be the simplest of all probabilistic probabiistic models.
+In this notebook, we play with what may well be the simplest of all probabilistic models.
 
 #### Specific dependendencies
 This notebook still runs on
@@ -19,7 +19,7 @@ you will need also:
 + `graphviz 2.38`
 
 ### 2. Linear Regression
-In this notebook, Monte-Carlo results are critically examined and compared to the known analytic solution for the Gauss - inverse gamma Model.
+In this notebook, Monte-Carlo results are critically examined and compared to the known analytic solution for the Gauss - InverseGamma Model.
 
 #### Specific dependendencies
 This notebook still runs on
