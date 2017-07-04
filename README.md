@@ -32,7 +32,7 @@ you will need also:
 + `graphviz 2.38`
 
 ## 3. Model Selection
-Here, we explore the possibility of re-using Monte-Carlo samples to actually compute the Bayes-factors between two models and, thus, decide which one to pick to describe our data.
+Here, we explore the possibility of re-using Monte-Carlo samples to actually compute the Bayes factors between two models and, thus, decide which one to pick to describe our data.
 
 #### Specific dependendencies
 This notebook now runs on
